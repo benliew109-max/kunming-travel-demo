@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="19.9" height="20.9" viewBox="0 0 19.9 20.9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<g id="Subtract">
+</g>
+<circle id="Ellipse" cx="14.4" cy="5.39581" r="1.5" fill="black"/>
+<mask id="stroke0_0_25" fill="white">
+<path d="M19.9 5.5C19.9 8.84942 16.2738 11.7044 14.9102 12.6595C14.6018 12.8755 14.1982 12.8755 13.8898 12.6595C12.5262 11.7044 8.9 8.84942 8.9 5.5C8.9 2.46243 11.3624 0 14.4 0C17.4376 0 19.9 2.46243 19.9 5.5Z"/>
+</mask>
+<path id="Vector" d="M19.9 5.5C19.9 8.84942 16.2738 11.7044 14.9102 12.6595C14.6018 12.8755 14.1982 12.8755 13.8898 12.6595C12.5262 11.7044 8.9 8.84942 8.9 5.5C8.9 2.46243 11.3624 0 14.4 0C17.4376 0 19.9 2.46243 19.9 5.5Z" stroke-width="3.3" stroke="black" mask="url(#stroke0_0_25)"/>
+<path id="Vector_2" d="M5.9 2H3.9C2.24315 2 0.9 3.34315 0.9 5V17C0.9 18.6569 2.24315 20 3.9 20H15.9C17.5569 20 18.9 18.6569 18.9 17V15" stroke-width="1.8" stroke-linecap="round" stroke="black"/>
+<path id="Vector_3" d="M13.9 20L0.9 7" stroke-width="1.8" stroke="black"/>
+<path id="Vector_4" d="M1.9 19L6.9 14" stroke-width="1.8" stroke="black"/>
+</g>
+</svg>
